@@ -53,7 +53,7 @@ src/main/java/com/student/management/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/StudentManagementRESTAPI.git
+   git clone https://github.com/TalhaZaheerDev/StudentManagementRESTAPI.git
    cd StudentManagementRESTAPI
    ```
 
